@@ -1,7 +1,7 @@
 # Technology-Recognition-for-4G-LTE-and-5G-NR
 A technology recognition model that identifies 4G LTE, 5G NR, and Overlap signals 
 
-# support
+# Support
 merkebutekaw.girmay@ugent.be 
 
 # Reference
